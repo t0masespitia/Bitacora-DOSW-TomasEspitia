@@ -1,3 +1,5 @@
+package Corte1.Semana1.Ejercicio3;
+
 import java.util.Arrays;
 import java.util.List;
 

@@ -1,3 +1,4 @@
+package Corte1.Semana1.Ejercicio3;
 
 public class User {
     private int id;

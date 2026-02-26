@@ -1,7 +1,9 @@
+package Corte1.Semana1.Ejercicio2;
+
 import java.util.Arrays;
 import java.util.List;
 
-public class ejercicio2 {
+public class Ejercicio2 {
     public static void main(String[] args) {
 
         List<String> palabras = Arrays.asList(

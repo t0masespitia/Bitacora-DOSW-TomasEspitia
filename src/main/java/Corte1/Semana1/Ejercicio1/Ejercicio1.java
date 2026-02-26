@@ -1,11 +1,11 @@
-package edu.dosw.bitacoraS1.ejercicio1;
+package Corte1.Semana1.Ejercicio1;
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
 
 
-public class EjercicioStreams1 {
+public class Ejercicio1 {
 
     public static void main(String[] args) {
 
